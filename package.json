@@ -1,0 +1,25 @@
+{
+  "name": "raygun.tattoo",
+  "description": "http://raygun.tattoo",
+  "version": "1.0.0",
+  "bugs": {
+    "url": "https://github.com/rayguntattoo/raygun.tattoo/issues"
+  },
+  "devDependencies": {
+    "gh-pages-deploy": "^0.3.0"
+  },
+  "gh-pages-deploy": {
+    "staticpath": "dist",
+    "cname": "raygun.tattoo"
+  },
+  "homepage": "https://github.com/rayguntattoo/raygun.tattoo",
+  "main": "index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rayguntattoo/raygun.tattoo.git"
+  },
+  "scripts": {
+    "deploy": "gh-pages-deploy"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "shop": {
+    "phone": "949.496.7021",
+    "location": {
+      "street-address": "34053 La Plaza",
+      "locality": "Dana Point",
+      "region": "CA",
+      "postal-code": 92629,
+      "mapURI": "https://www.google.com/maps/place/Raygun+Tattoo/@33.467581,-117.699791,17z/data=!4m6!1m3!3m2!1s0x80dcf050fa36a259:0x3055d8eba9f905d2!2sRaygun+Tattoo!3m1!1s0x80dcf050fa36a259:0x3055d8eba9f905d2"
+    }
+  },
+  "artists": [
+    {
+      "name": "Craig Christy",
+      "bio": "<h1>Craig Bio here</h1>",
+      "image": "craig-main.jpg"
+    },
+    {
+      "name": "Ryan Christy",
+      "bio": "",
+      "image": "ryan-main.jpg"
+    },
+    {
+      "name": "Chad Weinstock",
+      "bio": "",
+      "image": "chad-main.jpg"
+    },
+    {
+      "name": "Adam McNatt",
+      "bio": "",
+      "image": "adam-main.jpg"
+    }
+  ],
+  "revolver": [
+    "/images/home1.jpg",
+    "/images/home2.jpg",
+    "/images/home3.jpg",
+    "/images/home4.jpg"
+  ]
+}
